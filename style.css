@@ -41,7 +41,6 @@ html {
     left: 0;
     text-align: center;
     width: 100%;
-    text-transform: uppercase;
     letter-spacing: 2px;
     animation: text 6s linear infinite;
 }
@@ -52,6 +51,7 @@ html {
 
 .team h2 {
     font-size: 2.2rem;
+    text-transform: uppercase;
 }
 
 @media (orientation: landscape) {
